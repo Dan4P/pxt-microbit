@@ -1,5 +1,6 @@
 {
     "packages": {
+
         "approvedRepoLib": {
             "microsoft/pxt-neopixel": {
                 "tags": [ "Lights and Display" ],
@@ -455,10 +456,7 @@
             "microsoft/microbit-robot": { "tags": [ "Robotics" ] },
             "4tronix/mars-rover": { "tags": [ "Robotics" ] },
             "monkmakes/plant-monitor-makecode": { "tags": [ "Science" ] },
-            "grandpabond/pxt-flexfx": { "tags": [ "Software" ] },
-            "grandpabond/pxt-faces": { "tags": [ "Software" ] },
-            "joylabz/code-a-key-extension": {},
-            "eb8ga/pxt-roversa-2": { "tags": [ "Robotics" ] }
+            "grandpabond/pxt-flexfx": { "tags": [ "Software" ] }
         },
         "upgrades": {
             "tinkertanker/pxt-iot-environment-kit": "min:v4.2.1",
@@ -496,6 +494,8 @@
             "microsoft/pxt-jacdac": "min:v0.10.40"
         },
         "approvedEditorExtensionUrls": [
+            "https://dan4p.github.io/",
+            "httl://localhost:8000",
             "https://microsoft.github.io/ml4f/",
             "https://microsoft.github.io/jacdac-docs/tools/makecode-editor-extension"
         ],
@@ -521,6 +521,7 @@
         "Blocks to JavaScript": "courses/blocks-to-javascript",
         "Courses": "courses",
         "Jacdac": "jacdac",
+        "hello": "hello",
         "MicroCode for the new micro:bit (V2)": "microcode",
         "Behind the MakeCode Hardware": {
             "url": "behind-the-makecode-hardware",
