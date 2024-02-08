@@ -253,12 +253,7 @@
                 "aspectRatio": 1.22,
                 "permanent": true
             },
-            "hello": {
-                "url": "https://dan4p.github.io/",
-                "localHostUrl": "http://localhost:8000",
-                "aspectRatio": 1.22,
-                "permanent": true
-            },
+
             "robot": {
                 "url": "https://microsoft.github.io/microbit-robot/?parentOrigin=$PARENT_ORIGIN$",
                 "localHostUrl": "http://localhost:3000/microbit-robot/?parentOrigin=$PARENT_ORIGIN$",
