@@ -2,6 +2,8 @@
     "packages": {
 
         "approvedRepoLib": {
+            "Dan4P/pxt-hello": {},
+            "Dan4P/dan4p.github.io": {},
             "microsoft/pxt-neopixel": {
                 "tags": [ "Lights and Display" ],
                 "preferred": true
@@ -456,10 +458,7 @@
             "microsoft/microbit-robot": { "tags": [ "Robotics" ] },
             "4tronix/mars-rover": { "tags": [ "Robotics" ] },
             "monkmakes/plant-monitor-makecode": { "tags": [ "Science" ] },
-            "grandpabond/pxt-flexfx": { "tags": [ "Software" ] },
-            "Dan4P/pxt-hello": { },
-            "Dan4P/dan4p.github.io": {}
-
+            "grandpabond/pxt-flexfx": { "tags": [ "Software" ] }
         },
         "upgrades": {
             "tinkertanker/pxt-iot-environment-kit": "min:v4.2.1",
@@ -498,7 +497,6 @@
         },
         "approvedEditorExtensionUrls": [
             "https://dan4p.github.io/",
-            "httl://localhost:8000",
             "https://microsoft.github.io/ml4f/",
             "https://microsoft.github.io/jacdac-docs/tools/makecode-editor-extension"
         ],
