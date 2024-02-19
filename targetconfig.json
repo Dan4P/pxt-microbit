@@ -2,8 +2,8 @@
     "packages": {
 
         "approvedRepoLib": {
-            "Dan4P/pxt-hello": {},
-            "Dan4P/dan4p.github.io": {},
+            "dan4p/pxt-hello": {},
+            "dan4p/dan4p.github.io": {},
             "microsoft/pxt-neopixel": {
                 "tags": [ "Lights and Display" ],
                 "preferred": true
