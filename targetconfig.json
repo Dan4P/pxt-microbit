@@ -2,6 +2,7 @@
     "packages": {
 
         "approvedRepoLib": {
+            "dan4p/pxt-ml-gestures": {},
             "dan4p/pxt-hello": {},
             "dan4p/dan4p.github.io": {},
             "microsoft/pxt-neopixel": {
@@ -497,6 +498,7 @@
         },
         "approvedEditorExtensionUrls": [
             "https://dan4p.github.io/hello-world/",
+            "https://dan4p.github.io/ml-gestures/",
             "https://microsoft.github.io/ml4f/",
             "https://microsoft.github.io/jacdac-docs/tools/makecode-editor-extension"
         ],
